@@ -1,0 +1,204 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Responsive Mail News Letter</title>
+  </head>
+  <body>
+    <!----whole table of Email-->
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+      <tr>
+        <td>
+          <!---inner whole table-->
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+            <tr>
+              <td>
+                <!---header section logo-->
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+                  <tr>
+                    <td align="center">
+                      <img src="https://i.postimg.cc/xdyVcqhG/logo.png">
+                    </td>
+                  </tr>
+                </table> 
+                <!---header section title-->
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+                  <tr>
+                    <td align="center"> 
+                     <h2>
+                      Choose from an array of Financial wellness products on<br>
+                      Shubh Loans app to secure your future
+                     </h2>
+                    </td>
+                  </tr>
+                </table>
+                <!---Whole thumbnail section-->
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+                  <tr>
+                    <td>
+                      <!----Innner whole Thumbnail section-->
+                      <table cellpadding="0" cellspacing="0" border="0" width="600" align="center">
+                        <tr>
+                          <td>
+                            <!---single Left Image-->
+                            <table cellpadding="0" cellspacing="0" border="0" width="275" align="left">
+                              <tr>
+                                <td >
+                                  <h2>COVID-19 Insurance </h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <img src="https://i.postimg.cc/3JgxmgKc/netcore.png">
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <p>Get COVID-19 Insurance cover for you, starting from Rs.344+GST</p>
+                                  <p>Choose your sum insured from Rs. 50,000 to Rs. 3 lacs</p>
+                                  <p>Just 15 days waiting period from the Insurance buying date</p>
+                                   <p>Affordable and designed to suit your pocket</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top: 5%;">
+                                  <button style="border-radius: 10px; padding: 2%; background-color: antiquewhite;">Learn More!</button>
+                                </td>
+                              </tr>
+
+                            </table>
+                            <!---innner right Image-->
+                            <table cellpadding="0" cellspacing="0" border="0" width="275" align="right">
+                              <tr>
+                                <td>
+                                  <h2>Mutual Funds </h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <img src="https://i.postimg.cc/pX9dTg7R/netcore1.png">
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <p>Start your mutual fund investment with as low as Rs 100/m</p>
+                                  <p>One-click redemption feature in app Huury Up</p>
+                                  <p>100% Digital KYC proces with safety </p>
+                                  <p>One-click redemption feature: Money will be credited to your account in 2-4 working days</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top: 5%;">
+                                  <button style="border-radius: 10px; padding: 2%; background-color: antiquewhite;">Learn More!</button>
+                                </td>
+                              </tr>
+
+                            </table>
+
+                            <!--Second Left Image-->
+                            <table cellpadding="0" cellspacing="0" border="0" width="275" align="left">
+                              <tr>
+                                <td style="padding-top: 3%;">
+                                  <h2>E Gold </h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <img src="https://i.postimg.cc/3JgxmgKc/netcore.png">
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <p>Get COVID-19 Insurance cover for you, starting from Rs.344+GST</p>
+                                  <p>Choose your sum insured from Rs. 50,000 to Rs. 3 lacs</p>
+                                  <p>Just 15 days waiting period from the Insurance buying date</p>
+                                   <p>Affordable and designed to suit your pocket</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top: 5%;">
+                                  <button style="border-radius: 10px; padding: 2%; background-color: antiquewhite;">Learn More!</button>
+                                </td>
+                              </tr>
+
+                            </table>
+                            <!---Second right Image-->
+                            <table cellpadding="0" cellspacing="0" border="0" width="275" align="right">
+                              <tr>
+                                <td style="padding-top: 3%;">
+                                 <h2> Dengue Insurance </h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <img src="https://i.postimg.cc/pX9dTg7R/netcore1.png">
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <p>Start your mutual fund investment with as low as Rs 100/m</p>
+                                  <p>One-click redemption feature in app hurry up</p>
+                                  <p>100% Digital KYC process</p>
+                                  <p>One-click redemption feature: Money will be credited to your account in 2-4 working days</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top: 5%;">
+                                  <button style="border-radius: 10px; padding: 2%; background-color: antiquewhite;">Learn More!</button>
+                                </td>
+                              </tr>
+
+                            </table>
+                            <!--footer section-->
+                            <table cellpadding="0" cellspacing="0" border="0" width="600" align="center">
+                                <tr><td height="10"></td></tr>
+                              <tr>
+                                <td>
+                                  <table cellpadding="0" cellspacing="0" width="600" border="0" align="center" class="width100" bgcolor="#f8b225;">
+                                    <tr><td height="10"></td></tr>
+                                    <tr>
+                                      <td align="center">
+                                        <p>
+                                          Hurry Up on Shubh loan app
+                                        </p>
+
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td style= " text-align: center; padding-top: 2%; padding-bottom: 10px;font-family: 'Playfair Display', serif;">
+                                       <span>Excluisve Available on Shubh Loans</span>
+                                     </td>
+                                   </tr>
+                                   <tr>
+                                     <td  align="center">
+                                      <img src="https://i.postimg.cc/7ZcYPK8q/unnamed.jpg" style="width: 33px; padding-bottom: 2%;">
+                                      <img src="https://i.postimg.cc/P5KV17rk/768px-Instagram-icon.png" style="width: 30px; padding-left: 1%; padding-bottom: 1%;">
+                                      
+                                     </td>
+                                   </tr>
+                                </td>
+                              </tr>
+
+                            </table>
+
+
+
+                          </td>
+                        </tr>
+
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+
+              </td>
+             
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+
+
+  
+     
