@@ -1,0 +1,146 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Responsive Mail News Letter</title>
+    <style>
+		body {margin: 0px;}
+		@media screen and (max-width: 700px) {
+		.width100 { width: 100%;}
+		.width90 { width: 90%; align-items: center;}
+		.center {text-align: center;}
+	}
+	</style>
+
+
+
+</head>
+  <body>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+        <tr>
+          <td>
+               <!---inner whole table-->
+          <table cellpadding="0" cellspacing="0" border="1" width="500" height="750" align="center">
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" border="0" width="400" align="center">
+                    <tr>
+                      <td align="center">
+                        <img src="https://i.postimg.cc/G3zXP85v/lgo.jpg">
+                      </td>
+                    </tr>
+                  </table> 
+                  <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+                    <tr>
+                      <td align="center">
+                        <img src="https://i.postimg.cc/wx72gHzD/maxresdefault.jpg"> 
+                       
+                      </td>
+                    </tr>
+                  </table>
+
+                  <table cellpadding="0" cellspacing="0" border="0" width="457" align="center">
+                    <tr><td height="3"></td></tr>
+                    <tr>
+                      <td align="left">
+                        <p>Accessing your savings account is easy and convenient with our wide network of 1300+ branches and 24x7 ATMs across the country. Your savings account is always at your fingertips with our best in class net banking feature, SMS banking and our award winning mobile banking app for all your online transactions</p>
+                       
+                      </td>
+                    </tr>
+                  </table>
+
+                  <table cellpadding="0" cellspacing="0" border="0" width="457" align="center">
+                    <tr><td height="5"></td></tr><!---------for height margin-->
+                    <tr>
+                      <td align="center" >
+                        <button style="background-color: #EE1207; border-style:none; border-radius: 10px; padding: 1%; color:#FDF3FC; font-size: 16px;">Apply Now!</button>
+                       
+                      </td>
+                    </tr>
+                  </table>
+                  <table cellpadding="0" cellspacing="0" border="0" width="457" align="center">
+                
+                    <tr>
+                      <td>
+                        <table cellpadding="0" cellspacing="0" border="0" width="50" align="left">
+                            <tr>
+                              <td >
+                                  <img src="https://i.postimg.cc/CxrFVF7W/new.jpg">
+                              </td>
+                              </tr>
+                              </table>
+                              <table cellpadding="0" cellspacing="0" border="0" width="400" align="right">
+                                <tr>
+                                  <td>
+                                    <h2 style="margin-top: 2.9%;">Instant a credit card </h2>
+                                  </td>
+                                </tr>
+                                </table>
+
+                                <table cellpadding="0" cellspacing="0" border="0" width="50" align="left">
+                                    <tr>
+                                      <td >
+                                          
+                                           <img src ="https://i.postimg.cc/gjGVbqkc/email.jpg">
+                                              </td>
+                                              </tr>
+                                              </table>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="400" align="right">
+                                                <tr>
+                                                  <td>
+                                                    <h2 style="margin-top: 1%;">Saving Account as zero balance <h2>
+                                                  </td>
+                                                </tr>
+                                                </table>
+                                       </td>       
+                                      </tr>
+                                      </table>
+                                      <table cellpadding="0" cellspacing="0" border="0" width="475" align="center">
+                                        <tr><td height="10"></td></tr>
+                                      <tr>
+                                        <td>
+                                          <table cellpadding="0" cellspacing="0" width="475" border="0" align="center" class="width100" bgcolor="#f8b225;">
+                                            <tr><td height="10"></td></tr>
+                                            <tr>
+                                              <td align="center">
+                                                <p>
+                                                  All Right Reversed
+                                                </p>
+        
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td style= " text-align: center; padding-top: 2%; padding-bottom: 10px;font-family: 'Playfair Display', serif;">
+                                               <span>Kotak Mahindra Bank</span>
+                                             </td>
+                                           </tr>
+                                           <tr>
+                                             <td  align="center">
+                                             
+                                              <img src="https://i.postimg.cc/P5KV17rk/768px-Instagram-icon.png" style="width: 30px; padding-left: 1%; padding-bottom: 1%;">
+                                              
+                                             </td>
+                                           </tr>
+                                        </td>
+                                      </tr>
+        
+                                    </table>
+        
+                              
+
+
+                                                
+                           
+                        
+                
+
+
+                </td>
+                </td>
+            </table>
+
+
+
+          </td>
+          </tr>
+          </table>
+      </body>
